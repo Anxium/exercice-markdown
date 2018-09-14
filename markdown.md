@@ -6,7 +6,7 @@
 
 		 `1. Mon premier`
 
-		 `2. mon deuxième`
+		 `2. Mon deuxième`
 
 	1. Liste non-ordonnée :  
 
@@ -18,6 +18,8 @@
 
 `
 	First Header | Seconde Header
+
 	 ------------ | :-------------
+
 	 Cell1	      |	Cell2
 	 `
