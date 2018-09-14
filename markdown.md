@@ -2,11 +2,11 @@
 
 * L'écriture en **Gras**
 
-	Syntaxe `**Gras**`
+		Syntaxe `**Gras**`
 
 * L'éciture en *Italique*
 
-	Syntaxe `*Italique*`
+		Syntaxe `*Italique*`
 
 
 
