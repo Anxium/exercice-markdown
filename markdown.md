@@ -3,7 +3,7 @@
 # Qu'est-ce que le Markdown?
 
 ### Définition
-
+--------------------
 
 Markdown est un langage de balisage créé en 2004 par John Gruber avec Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire.
 
@@ -29,6 +29,7 @@ D'abord, il est super léger, et ne nécessite qu'un simple éditeur de texte. L
 
 
 ### Liste et Tableaux
+--------------------
 
 1. Ecriture d'une liste:
 
@@ -61,6 +62,7 @@ D'abord, il est super léger, et ne nécessite qu'un simple éditeur de texte. L
 	 `
 
 ### Insérer un lien
+--------------------
 
 Pour insérer un lien en *MarkDown*, vous devez placer votre texte à afficher entre crochet suivi de l'URL entre parenthèse. Comme ceci:
 
@@ -69,6 +71,7 @@ Pour insérer un lien en *MarkDown*, vous devez placer votre texte à afficher e
 Et votre lien apparaitra dans votre fichier!
 
 ### Insérer une image
+--------------------
 
 Pour placer un lien avec du *MarkDown*, il suffit de procéder de la même façon que pour les liens! 
 
@@ -80,8 +83,6 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
 
 
-##### Pour des informations plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
-
 ### Coloration Syntaxique :
 --------------------------
 
@@ -90,5 +91,8 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
     alert("Hello!");
 </script>
 ```
+
+
+##### Pour des informations plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
 
 
