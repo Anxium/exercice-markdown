@@ -1,5 +1,4 @@
-
-<center>![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)</center>
+![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Qu'est-ce que le Markdown?
 
