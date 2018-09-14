@@ -1,4 +1,4 @@
-﻿
+
 # Qu'est-ce que le Markdown?
 
 ### Définition
@@ -19,11 +19,14 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 	Syntaxe `*Italique*`
 
+<<<<<<< HEAD
 
 		Syntaxe `*Italique*`
 
 
 
+=======
+>>>>>>> cbff89d93e4f301f10c520845f01722300dcc921
 ### Liste et Tableaux
 
 1. Ecriture d'une liste:
@@ -51,3 +54,44 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 	 Cell1	      |	Cell2
 	 
 	 `
+
+### Insérer un lien
+
+Pour insérer un lien en *MarkDown*, vous devez placer votre texte à afficher entre crochet suivi de l'URL entre parenthèse. Comme ceci:
+
+`[Texte à Afficher](URL)`
+
+Et votre lien apparaitra dans votre fichier!
+
+### Insérer une image
+
+Pour placer un lien avec du *MarkDown*, il suffit de procéder de la même façon que pour les liens! 
+
+Il faut simplement ajouter un "!" devant les crochets. Comme ici:
+
+`![Texte](URL)`
+
+![Bien joué!](http://m.memegen.com/jj9nji.jpg)
+
+
+
+<pre><code>int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+</code></pre><p>Voici un code en C :</p>
+
+<pre><code>int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+</code></pre><p>Voici un code en C :</p>
+
+<pre><code>int main()
+{
+    printf("Hello world!\n");
+    return 0;
+}
+</code></pre>
