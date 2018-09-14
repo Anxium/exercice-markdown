@@ -15,4 +15,4 @@ Nous y avons inséré des images, *Statiques* et **Dynamique** ainsi qu'un lien UR
 
 Le travail a été éffectué par Redouane, Anne-Cecile, Axel, Maxime H.
 
-[Image](http://www.aslschool.eu/wp-content/uploads/2012/03/ALS-SCHOOL-team-building.png)
+![Image](http://www.aslschool.eu/wp-content/uploads/2012/03/ALS-SCHOOL-team-building.png)
