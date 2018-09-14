@@ -27,9 +27,15 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 	1. Liste ordonnée : 
 
-		 `1. Mon premier`
+		 `
 
-		 `2. Mon deuxième`
+		 1. Mon premier
+
+		 	1.1 Mon 2eme premier
+
+		 2. Mon deuxième
+
+		 `
 
 	1. Liste non-ordonnée :  
 
@@ -68,8 +74,7 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
 
 
-
-`<script type="text/javascript">
-    alert("Hello!");
-</script>`
+<pre class="brush: cpp;">
+    fun(float foo) { fprintf("if %lo, fifo,\felse lifo, fool %f!", 0xfeel, foo); }
+</pre>
 
