@@ -61,8 +61,6 @@ Pour placer un lien avec du *MarkDown*, il suffit de procéder de la même faço
 
 Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
-<source lang="markdown" line>
-![Texte](URL)
-</source>
+`![Texte](URL)`
 
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
