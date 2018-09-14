@@ -65,3 +65,5 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 `![Texte](URL)`
 
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
+
+##### Pour des informations plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
