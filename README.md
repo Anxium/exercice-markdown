@@ -11,6 +11,6 @@ documentations(incontournable sur GitHub).
 Nous avons commencé par faire des *sous-titres*,
 ensuite nous avons continué par ds **puces non listées**.
 Nous y avons incorporé des puces numérotées pour décrire les tableaux. 
-Nous y avons inséré des images **Staties**, *Dynamiques* et aussi inséré un URL. 
+Nous y avons inséré des images **Staques**, *Dynamiques* et aussi inséré un URL. 
 
 Le travail a été éffectué pRedouane, Anne-Cecile, Axel, Maxime H
