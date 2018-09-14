@@ -16,7 +16,7 @@ D'abord, il est super léger, et ne nécessite qu'un simple éditeur de texte. L
 **En conclusion** : utilisez Markdown, c'est bon, ça mord pas, et ça fait de la place sur les disques !
 
 
-<h3>Police</h3> 
+### Police 
 ---------------
 
 * L'écritue en **Gras*
