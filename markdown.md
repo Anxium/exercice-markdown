@@ -1,4 +1,4 @@
-﻿
+
 # Qu'est-ce que le Markdown?
 
 ### Définition
@@ -18,7 +18,6 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 * L'éciture n *Italique*
 
 	Syntaxe `*Italique*`
-
 
 ### Liste et Tableaux
 
@@ -47,3 +46,21 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 	 Cell1	      |	Cell2
 	 
 	 `
+
+### Insérer un lien
+
+Pour insérer un lien en *MarkDown*, vous devez placer votre texte à afficher entre crochet suivi de l'URL entre parenthèse. Comme ceci:
+
+`[Texte à Afficher](URL)`
+
+Et votre lien apparaitra dans votre fichier!
+
+### Insérer une image
+
+Pour placer un lien avec du *MarkDown*, il suffit de procéder de la même façon que pour les liens! 
+
+Il faut simplement ajouter un "!" devant les crochets. Comme ici:
+
+`![Texte](URL)`
+
+![Bien joué!](http://m.memegen.com/jj9nji.jpg)
