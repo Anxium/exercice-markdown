@@ -11,13 +11,14 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 <h3>Police</h3> 
 
-* L'écriture en **Gras*
+* L'écritue en **Gras*
+
 	Syntaxe `**Gras**`
-* L'éciture en *Italiqu*
+
+* L'éciture n *Italique*
+
 	Syntaxe `*Italique*`
 
-<<<<<<< HEAD
-=======
 
 ### Liste et Tableaux
 
@@ -46,4 +47,3 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 	 Cell1	      |	Cell2
 	 
 	 `
->>>>>>> 796b388fe86f25f8f1663c91dd8c382453576c33
