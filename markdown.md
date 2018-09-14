@@ -37,9 +37,7 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 	1. Liste non-ordonnée :  
 
-		``` markdown
-		*Mon premier
-		```
+		`*Mon premier`
 
 		`*Mon deuxième`
 
@@ -73,6 +71,9 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
 
+``` markdown
+![Bien joué!](http://m.memegen.com/jj9nji.jpg)
+```
 
 
 
