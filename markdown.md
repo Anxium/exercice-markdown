@@ -28,8 +28,10 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 	1. Liste ordonnée : 
 
 		 `1. Mon premier`
-		 
-		 `1.1 2eme premier`
+
+		 	`1.1 2eme premier`
+
+		 	`1.2 3eme premier`
 
 		 `2. Mon deuxième`
 
