@@ -37,7 +37,9 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 	1. Liste non-ordonnée :  
 
-		`*Mon premier`
+		``` markdown
+		*Mon premier
+		```
 
 		`*Mon deuxième`
 
