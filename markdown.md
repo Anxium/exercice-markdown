@@ -1,4 +1,6 @@
 
+<center>![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)</center>
+
 # Qu'est-ce que le Markdown?
 
 ### Définition
@@ -15,7 +17,7 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 		Syntaxe '**Gras**'
 
-* L'éciture en *Italique*
+* L'écriture en *Italique*
 
 		Syntaxe `*Italique*`
 
