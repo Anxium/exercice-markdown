@@ -9,5 +9,5 @@ Syntaxe "Italique"
 * Insérer des liens
 Syntaxe lien google.com
 
-	´**Gras**´
+	`**Gras**`
 
