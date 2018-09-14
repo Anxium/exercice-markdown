@@ -17,6 +17,7 @@ D'abord, il est super léger, et ne nécessite qu'un simple éditeur de texte. L
 
 
 <h3>Police</h3> 
+---------------
 
 * L'écritue en **Gras*
 
