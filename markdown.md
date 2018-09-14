@@ -71,8 +71,10 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
 
-``` markdown
-![Bien joué!](http://m.memegen.com/jj9nji.jpg)
+``` javascript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
 ```
 
 
