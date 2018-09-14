@@ -17,9 +17,11 @@
 2. Ecriture d'un tableau
 
 `
+
 	First Header | Seconde Header
 
 	 ------------ | :-------------
 
 	 Cell1	      |	Cell2
+	 
 	 `
