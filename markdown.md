@@ -1,4 +1,4 @@
-<h3>Police<h3/> 
+<h3>Police</h3> 
 
 * L'écriture en **Gras**
 Syntaxe "Gras"
