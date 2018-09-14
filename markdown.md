@@ -18,3 +18,34 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 * L'éciture en *Italique*
 
 		Syntaxe `*Italique*`
+<<<<<<< HEAD
+=======
+
+### Liste et Tableaux
+
+1. Ecriture d'une liste:
+
+	1. Liste ordonnée : 
+
+		 `1. Mon premier`
+
+		 `2. Mon deuxième`
+
+	1. Liste non-ordonnée :  
+
+		`*Mon premier`
+
+		`*Mon deuxième`
+
+2. Ecriture d'un tableau
+
+`
+
+	First Header | Seconde Header
+
+	 ------------ | :-------------
+
+	 Cell1	      |	Cell2
+	 
+	 `
+>>>>>>> 796b388fe86f25f8f1663c91dd8c382453576c33
