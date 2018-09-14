@@ -69,10 +69,7 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
 
 
-<pre><code>int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
-</code></pre><p>Voici un code en C :</p>
+<script type="text/javascript">
+    alert("Hello!");
+</script>
 
