@@ -69,7 +69,7 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
 
 
-<script type="text/javascript">
+`<script type="text/javascript">
     alert("Hello!");
-</script>
+</script>`
 
