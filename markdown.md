@@ -19,14 +19,8 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 
 	Syntaxe `*Italique*`
 
-<<<<<<< HEAD
-
-		Syntaxe `*Italique*`
 
 
-
-=======
->>>>>>> cbff89d93e4f301f10c520845f01722300dcc921
 ### Liste et Tableaux
 
 1. Ecriture d'une liste:
@@ -82,16 +76,3 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 }
 </code></pre><p>Voici un code en C :</p>
 
-<pre><code>int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
-</code></pre><p>Voici un code en C :</p>
-
-<pre><code>int main()
-{
-    printf("Hello world!\n");
-    return 0;
-}
-</code></pre>
