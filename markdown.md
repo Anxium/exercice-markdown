@@ -72,7 +72,5 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
 
 
-<pre class="brush: cpp;">
-    fun(float foo) { fprintf("if %lo, fifo,\felse lifo, fool %f!", 0xfeel, foo); }
-</pre>
+
 
