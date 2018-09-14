@@ -2,7 +2,7 @@
 
 * L'écriture en **Gras**
 
-		Syntaxe `**Gras**`
+		Syntaxe ```**Gras**```
 
 * L'éciture en *Italique*
 
