@@ -1,5 +1,4 @@
-﻿
-# Qu'est-ce que le Markdown?
+ Qu'est-ce que le Markdown?
 
 ### Définition
 
@@ -18,8 +17,6 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 * L'éciture en *Italique*
 
 		Syntaxe `*Italique*`
-<<<<<<< HEAD
-=======
 
 ### Liste et Tableaux
 
@@ -48,4 +45,4 @@ Un document balisé par Markdown peut être lu en l'état sans donneimpression d
 	 Cell1	      |	Cell2
 	 
 	 `
->>>>>>> 796b388fe86f25f8f1663c91dd8c382453576c33
+
