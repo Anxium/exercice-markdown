@@ -1,5 +1,7 @@
-###Insérer un lien
+### Insérer un lien
 
 Pour insérer un lien en *MarkDown* il faut procéder comme ceci :
 
-´[Texte à Afficher](URL)´
+`[Texte à Afficher](URL)`
+
+Et votre image apparaitra !
