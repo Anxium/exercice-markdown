@@ -6,11 +6,11 @@
 C'est un petit langage très simple qui permet d'écrire du HTML de façon raccourcie. On peut s'en servir sur certains for, Pour rédiger des 
 documentations(incontournable sur GitHub).
 
-<h3>Ce qu'on �a utilisé</h3
+<h3>Ce qu'on a utilisé</h3
 
-Nous avons commencé par faire des*sous-titres*,
-ensuite nous avons continué par des**puces non listées**.
+Nous avons commencé par faire des *sous-titres*,
+ensuite nous avons continué par ds **puces non listées**.
 Nous y avons incorporé des puces numérotées pour décrire les tableaux. 
-Nous y avons inséré des images**Statiques** et Dynamique* et aussi inséré un URL. 
+Nous y avons inséré des images **Statiques** e*Dynamique* et aussi inséré un URL. 
 
-Le travail a été éffectué par: Redouane, Anne-Cécile, Axel xime H
+Le travail a été éffectué par: RedouaAnne-C�cile, Axel, Maxime H
