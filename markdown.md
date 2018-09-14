@@ -1,3 +1,4 @@
+![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Qu'est-ce que le Markdown?
 
@@ -21,7 +22,7 @@ D'abord, il est super léger, et ne nécessite qu'un simple éditeur de texte. L
 
 	Syntaxe `**Gras**`
 
-* L'éciture n *Italique*
+* L'écriture en *Italique*
 
 	Syntaxe `*Italique*`
 
@@ -71,4 +72,7 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
 
 ![Bien joué!](http://m.memegen.com/jj9nji.jpg)
+
+
+##### Pour des informations plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
 
