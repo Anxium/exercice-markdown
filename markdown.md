@@ -106,3 +106,6 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 ##### Pour des informations supplémentaires ou plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
 
 
+Cliquez [ICI](https://github.com/Anxium/exercice-markdown/blob/master/README.md) pour accéder au README.
+
+
