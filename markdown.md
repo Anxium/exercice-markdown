@@ -7,7 +7,7 @@
 
 Markdown est un langage de balisage créé en 2004 par John Gruber avec Aaron Swartz. Son but est d'offrir une syntaxe facile à lire et à écrire.
 
-Un document balisé par Markdown peut être lu en l'état sans donneimpression d'avoir été balisé ou formaté par des instructions particulières.
+Un document balisé par Markdown peut être lu en l'état sans donner l'impression d'avoir été balisé ou formaté par des instructions particulières.
 
 L'idée est de pouvoir mettre en forme du texte sans avoir besoin de recourir à la souris… et sans avoir besoin de taper à la main des balises HTML toutes les 5 secondes. L'avantage d'utiliser Markdown, c'est de posséder une syntaxe claire et légère pour définir la mise en forme. 
 
@@ -40,7 +40,6 @@ Pour écrire des blocs de code en coloration syntaxique, il suffit de mettre 3 a
 A la fin de votre code, il vous faudra remettre 3 accent grave sur la ligne suivante.
 
 Exemple:
-
 ``` javascript
 <script type="text/javascript">
     alert("Hello!"); 
