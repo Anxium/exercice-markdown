@@ -40,6 +40,7 @@ Pour écrire des blocs de code en coloration syntaxique, il suffit de mettre 3 a
 A la fin de votre code, il vous faudra remettre 3 accent grave sur la ligne suivante.
 
 Exemple:
+
 ``` javascript
 <script type="text/javascript">
     alert("Hello!");
@@ -103,6 +104,6 @@ Il faut simplement ajouter un "!" devant les crochets. Comme ici:
 
 
 
-##### Pour des informations plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
+##### Pour des informations supplémentaires ou plus précises sur le MarkDown, dirigez-vous [ici](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)!
 
 
