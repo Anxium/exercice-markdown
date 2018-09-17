@@ -3,14 +3,16 @@
 <h2>MarkDown</h2>
 
 
-C'est un petit langage trÃ¨s simple qui permet d'Ã©crire du HTML de faÃ§on raccourcie. On peut s'en servir sur certains for, Pour rÃ©diger des 
+C'est un petit langage très simple qui permet d'écrire du HTML de façon raccourcie. On peut s'en servir sur certains pour, Pour rédiger des 
 documentations(incontournable sur GitHub).
 
-<h3>Ce qu'on a utilisÃ©</h3
+<h3>Ce qu'on a utilisé</h3
 
-Nous avons commencÃ© par faire des *sous-titres*,
-ensuite nous avons continuÃ© par ds **puces non listÃ©es**.
-Nous y avons incorporÃ© des puces numÃ©rotÃ©es pour dÃ©crire les tableaux. 
-Nous y avons insÃ©rÃ© des images **Statiques** e*Dynamique* et aussi insÃ©rÃ© un URL. 
+Nous avons commencé par faire des *sous-titres*,
+Ensuite nous avons continué par des **puces non listées**.
+Nous y avons incorporé des puces numérotées pour décrire les tableaux. 
+Nous y avons inséré des images, *Statiques* et **Dynamique** ainsi qu'un lien URL.
 
-Le travail a Ã©tÃ© Ã©ffectuÃ© par: RedouaAnne-CÃcile, Axel, Maxime H
+Le travail a été éffectué par Redouane, Anne-Cecile, Axel, Maxime H.
+
+![Image](http://www.aslschool.eu/wp-content/uploads/2012/03/ALS-SCHOOL-team-building.png)
