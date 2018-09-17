@@ -37,7 +37,7 @@ Si vous voulez écrire du code en ligne, il vous suffit simplement de mettre 1 a
 ### Ecrire du code en coloration syntaxique
 --------------------------
 
-Pour écrire des blocs de code en coloration syntaxique, il suffit de mettre 3 accent grave au début, suivi du langage et il faut ensuite passer à la ligne et écrire votre code.
+Pour écrire des blocs de code en coloration syntaxique, il suffit de mettre 3 accents graves au début, suivi du langage et il faut ensuite passer à la ligne et écrire votre code.
 
 A la fin de votre code, il vous faudra remettre 3 accents graves sur la ligne suivante.
 
