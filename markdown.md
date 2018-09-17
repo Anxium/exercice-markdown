@@ -43,7 +43,7 @@ Exemple:
 
 ``` javascript
 <script type="text/javascript">
-    alert("Hello!");
+    alert("Hello!"); 
 </script>
 ```
 
